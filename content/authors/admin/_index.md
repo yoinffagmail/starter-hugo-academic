@@ -18,8 +18,7 @@ role: PhD Candidate of Medicine
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Guangxi Medical University
-  - The Fifth Affiliated Hospital of Guangxi Medical University
+  - name: Guangxi Medical University (The Fifth Affiliated Hospital of Guangxi Medical University)
     url: https://www.stanford.edu/
 
 # Short bio (displayed in user profile at end of posts)
