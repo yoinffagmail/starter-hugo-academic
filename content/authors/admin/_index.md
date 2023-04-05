@@ -14,11 +14,12 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: PhD Candidate of Medicine
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
+  - name: Guangxi Medical University
+  - The Fifth Affiliated Hospital of Guangxi Medical University
     url: https://www.stanford.edu/
 
 # Short bio (displayed in user profile at end of posts)
