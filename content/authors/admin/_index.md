@@ -1,10 +1,10 @@
 ---
 # Display name
-title: Alice Wu 吳恩達
+title: Yongfa Dai 戴永发
 
 # Full name (for SEO)
-first_name: Alice
-last_name: Wu
+first_name: yoinffa
+last_name: Dave
 
 # Status emoji
 status:
