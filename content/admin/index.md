@@ -1,7 +1,7 @@
 ---
 # Generate Wowchemy CMS
 type: wowchemycms
-private: true
+private: False
 outputs:
   - wowchemycms_config
   - HTML
