@@ -19,7 +19,7 @@ role: PhD Candidate of Medicine
 # Organizations/Affiliations to show in About widget
 organizations:
   - name: Guangxi Medical University (The Fifth Affiliated Hospital of Guangxi Medical University)
-    url: https://www.stanford.edu/
+    url: https://www.gxmu.edu.cn/
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
